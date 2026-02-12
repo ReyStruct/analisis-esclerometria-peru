@@ -23,6 +23,6 @@ Para ejecutar este script necesitas tener instalado Python 3.x y las siguientes 
 * `pandas`
 * `matplotlib`
 
-Puedes instalar las dependencias con el siguiente comando:
+Puedes instalar las librerias con el siguiente comando:
 ```bash
 pip install numpy pandas matplotlib
